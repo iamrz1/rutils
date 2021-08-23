@@ -1,3 +1,3 @@
-module github.com/iamrz1/rutil
+module github.com/iamrz1/rutils
 
 go 1.16
